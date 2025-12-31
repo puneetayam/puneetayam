@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Puneet Ayam
 
-**Aspiring Full Stack Developer | Learning MERN Stack & AI Integration | B.Tech CSE ’25 Graduate | Building Responsive Web Applications** 
+**Aspiring Full Stack Developer |
+Learning MERN Stack & AI Integration | 
+B.Tech CSE ’25 Graduate | Building Responsive Web Applications** 
+
 📍 India
 
 I am learning to build full-stack, scalable applications, exploring AI tools that improve web efficiency and automate tasks, and I enjoy turning ideas into working products
