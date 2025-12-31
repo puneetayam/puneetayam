@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Puneet Ayam
 
-<!--
-**puneetayam/puneetayam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full Stack Developer | Learning MERN Stack & AI Integration | B.Tech CSE ’25 Graduate | Building Responsive Web Applications** 
+📍 India
 
-Here are some ideas to get you started:
+I am learning to build full-stack, scalable applications, exploring AI tools that improve web efficiency and automate tasks, and I enjoy turning ideas into working products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Tools  
+- **Frontend:** ReactJS, HTML, CSS (Tailwind, Scss)
+- **Backend:** NodeJS, ExpressJS
+- **Database:** MongoDB, SQL
+- **Programming:** JavaScript, Python, Java, C++
+- **Version Control:** GitHub, Git
+
+### 📂 Projects  
+- Productivity Dashboard
+- ISL-to-textConverter
+- Remedy Sharing Web Application 
+- File Handling Application
+
+### 📫 Contact  
+- **LinkedIn:** <https://www.linkedin.com/in/puneetayam/>
+- **GitHub:** <https://github.com/puneetayam/>
+- **Email:** <puneetayam.workspace@gmail.com>
